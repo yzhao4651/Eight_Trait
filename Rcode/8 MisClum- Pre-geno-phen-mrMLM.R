@@ -187,8 +187,12 @@ names(myYmrMlMMculm)
 ##[23] "FD_50."    "HW_1"      "FW_1"      "HW_50"     "FW_50"     "GHW_1"     "GFW_1"     "GHW_50"    "GFW_50"    "HM_1"      "FM_1"     
 ##[34] "HM_50"     "FM_50"     "fprind"    "fprinW"    "fprinGW"   "fprinM"
 #names(myYmrMlMMculm) ### this one is for chapter 2
-#[1] "Taxa"      "CmDW_g"    "Cml_cm"    "CmD_BI_mm" "CmD_LI_mm" "CmN."      "Bcirc_cm"  "Yld_kg"    "SDW_kg"    "CCirc_cm"  "Lg"      
-#[12] "GS"        "FD"        "SRD"       "ADD"      "Yld"    "AIl"     "CmDW.V"  "Yld_1"
+
+#[1] "Taxa"      "CmDW_g"    "Cml_cm"    "CmD_BI_mm" "CmD_LI_mm" "CmN."      "Bcirc_cm"  "Yld_kg"    "SDW_kg"    "CCirc_cm"  "Lg" 
+#[1]            1 "Trait2"	2 "Trait3"	3"Trait4"	  4 "Trait5"	 5"Trait6"	6"Trait7"	  7"Trait8"	 8 "Trait9"   9"Trait10"   10 "Trait11"
+#[12] "GS"            "FD"        "SRD"       "ADD"          "Yld"    "AIl"          "CmDW.V"  "Yld_1"
+#[12]11"Trait12" 12 "Trait16"	13 "Trait17"	14"Trait18" 15 "Trait39"	16"Trait40"	 17"Trait41"	18"Trait42"
+
 #names(myYmrMlMMflo)
 #[1] "Taxa"    "TFN."    "FNMain"  "FNsmall" "HD_1"    "FD_1"    "HD_50."  "FD_50."  "HW_1"    "FW_1"    "HW_50"   "FW_50"   "GHW_1"   "GFW_1"  
 #[15] "GHW_50"  "GFW_50"  "HM_1"    "FM_1"    "HM_50"   "FM_50"   "fprind"  "fprinW"  "fprinGW" "fprinM" 
