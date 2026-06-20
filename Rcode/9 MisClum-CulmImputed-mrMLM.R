@@ -1,5 +1,5 @@
 ########################################################################
-#######preparing all of the dataset need for mrMLM packages#############
+#######preparing imputed datasets and run mrMLM packages#############
 ########################################################################
 
 ###this one has the SNPS with imputed number not int
